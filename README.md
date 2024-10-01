@@ -25,5 +25,5 @@ This project implements a computer vision solution to count the number of people
 
 1.Clone the repository:
 ```bash
-   git clone https://github.com/Youssaf-Mohamed/Vehicle-Detection-Tracker.git
+   git clone https://github.com/Youssaf-Mohamed/EntryExit-Tracker.git
 
